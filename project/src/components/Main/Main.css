@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+header {
+  
+  display: flex;
+
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-box {
+  position: relative;
+  border: 2px solid white;
+}
+
+.search-box input {
+  width: 150px;
+  padding: 10px;
+  padding-right: 40px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  background-color: #000;
+  color: #fff;
+}
+
+.search-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.settings-icon {
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+header button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+
+/* components/Main/TitleSection.css */
+
+
+/* Title Section Styles */
+.title {
+  position: relative;
+  background: url('../../assets/img/img_1.jpg') no-repeat center center/cover;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  width: 100%;
+  text-align: left;
+  border: 2px solid white;
+}
+
+.title-text {
+  position: relative;
+  z-index: 2;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.title-text h2 {
+  margin: 0;
+  font-size: 24px;
+  color: #fff;
+}
+
+.title-text h1 {
+  margin: 10px 0 0;
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+}
+
+.title-text h1 span {
+  color: #ff0066;
+  font-weight: 800;
+  font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .title {
+      height: auto;
+  }
+
+  .title-text h1 {
+      font-size: 28px;
+  }
+
+  .songs {
+      grid-template-columns: 1fr 1fr;
+  }
+
+  .new-song {
+      width: calc(50% - 20px);
+  }
+}
+
