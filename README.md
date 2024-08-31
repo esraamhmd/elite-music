@@ -24,6 +24,12 @@ https://github.com/user-attachments/assets/5686ad75-5ea9-4067-ba3f-14eee8ca390e
 - **Bootstrap:** Responsive design and UI components.
 - **FontAwesome:** Icons for enhanced user experience.
 
+## 🤝 Special thanks to my amazing teammates for this amazing work:
+Marina Mossa  
+Radwa Mohamed  
+Aml Nageh  
+Farah Hany  
+
 ## Getting Started
 
 ### Installation
