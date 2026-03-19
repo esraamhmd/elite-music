@@ -1,4 +1,5 @@
 # Elite Music
+<img width="1919" height="866" alt="m2" src="https://github.com/user-attachments/assets/116218eb-ebd1-45fb-8aa4-4ce75955518b" />
 
 ## Overview
 
