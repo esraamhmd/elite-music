@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/FontAwesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
 </div>
+
 ## Overview
 
 Elite Music is a comprehensive web application designed to offer a rich music experience. It features a modern and responsive interface that allows users to explore trending tracks, popular artists, new releases, and more. This repository contains the source code and resources for the Elite Music website.
